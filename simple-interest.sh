@@ -4,11 +4,11 @@
    # Do not use this in production. Sample purpose only.
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # <Adeel-4726>
    # Input:
    # p, principal amount
    # t, time period in years
-   # r, annual rate of interest
+   # r, annual rate of interestAdeel-4726
    # Output:
    # simple interest = p*t*r
    echo "Enter the principal:"
